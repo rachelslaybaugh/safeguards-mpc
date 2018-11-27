@@ -1,0 +1,12 @@
+name: safeguards
+dependencies:
+  - coverage=4.5.1
+  - jupyter=1.0.0
+  - matplotlib=2.2.3
+  - numpy=1.15.1
+  - pandas=0.23.4
+  - pip=10.0.1
+  - pytest=3.2.1
+  - pytest-cov=2.6.0
+  - python=3.6.6
+  - scipy=1.1.0
