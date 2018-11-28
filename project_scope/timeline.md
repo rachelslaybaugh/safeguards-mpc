@@ -1,4 +1,8 @@
-# Thesis timeline
+# Multi-Party Computation Project Timeline
+
+Timeline for completing the multi-party computation (MPC) project. The project will be performed primarily by Mitch Negus at UC Berkeley in conjunction with Sandia National Laboratories (Dave Farley).
+
+Dates listed are approximate deadlines (not expected completion dates).
 
 ## Pre-Quals
 
